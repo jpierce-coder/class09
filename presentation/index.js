@@ -1,0 +1,3 @@
+firstName = '';
+
+console.log(num);
